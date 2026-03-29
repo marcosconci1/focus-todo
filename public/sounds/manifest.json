@@ -1,0 +1,11 @@
+{
+  "_comment": "Use the sounds map: { \"Display Name\": \"filename.ext\" }. Supported: .mp3, .wav.",
+  "instructions": [
+    "Add audio files to public/sounds.",
+    "List them in sounds as display name -> filename.",
+    "Example: \"Clock Alarm\": \"clock-alarm.mp3\""
+  ],
+  "sounds": {
+    "Clock Alarm": "clock-alarm.mp3"
+  }
+}

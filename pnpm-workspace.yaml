@@ -1,0 +1,11 @@
+ignoredBuiltDependencies:
+  - sqlite-async
+  - esbuild
+  - sharp
+  - unrs-resolver
+
+onlyBuiltDependencies:
+  - sqlite3
+
+packages:
+  - .

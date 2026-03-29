@@ -1,0 +1,12 @@
+[
+"Are you working on what truly matters right now?",
+"Is this task aligned with your goals for today?",
+"Take a breath. What's really important?",
+"Remember why you started this.",
+"You're doing great. Stay focused on your priorities.",
+"Is this the best use of your time right now?",
+"Check in with yourself. How are you feeling?",
+"What would make today meaningful for you?",
+"Progress over perfection, always.",
+"Are you avoiding something important?"
+]

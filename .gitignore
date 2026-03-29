@@ -1,0 +1,29 @@
+node_modules
+.next
+out
+~/
+tsconfig.tsbuildinfo
+package-lock.json
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+
+# SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# Legacy JSON data files
+public/data/user-*.json
+public/data/settings.json
+data.json
+settings.json
+
+# Backup files
+*.json.migrated
+backups/
+
+# Configuration files
+.config/
