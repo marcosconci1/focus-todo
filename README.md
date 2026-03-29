@@ -1,5 +1,8 @@
 # Focus Todo
 
+<img width="1280" height="640" alt="README" src="https://github.com/user-attachments/assets/12715673-daa7-4ecc-9f1c-c33207a86f4f" />
+
+
 A local-first habit and task tracker with a built-in Pomodoro timer, streak tracking, smart alerts, and optional Google Calendar sync. Built with Next.js, React, and SQLite.
 
 All data stays on your machine. No accounts, no cloud, no telemetry.
